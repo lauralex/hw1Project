@@ -1,0 +1,18 @@
+.postLike {
+    display: block;
+}
+
+
+
+.likeCounter {
+    padding-left: 5px;
+    border-left: 1px solid fuchsia;
+    margin-left: 5px;
+    margin-top: 2px;
+}
+
+
+.row {
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 0;
+}

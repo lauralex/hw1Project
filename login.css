@@ -1,0 +1,20 @@
+.signup {
+    display: inline-block;
+    margin-bottom: 1rem;
+}
+.login {
+    margin-bottom: 0;
+}
+
+#remember {
+    position: relative;
+    bottom: -0.15rem;
+}
+
+.post {
+    display: block;
+}
+
+label {
+    display: inline-block;
+}

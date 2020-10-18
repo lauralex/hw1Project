@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="My Apache Server">
+    <serverData>
+      <paths name="My Apache Server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hw1" local="$PROJECT_DIR$" web="/hw1" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="My Apache Server (project level)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
